@@ -56,7 +56,7 @@ jewellery-ecommerce-website/
 ```
 ## 👩‍💻 Developer
 
-**Varsha Patil**
+**Varsha D. Patil**
 
 Diploma in Computer Engineering
 R.C. Patel Polytechnic, Shirpur
