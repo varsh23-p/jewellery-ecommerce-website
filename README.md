@@ -54,10 +54,3 @@ jewellery-ecommerce-website/
 ├── index.html
 └── README.md
 ```
-
-## 👩‍💻 Developer
-
-**Varsha D. Patil**
-
-Diploma in Computer Engineering
-R.C. Patel Polytechnic, Shirpur
