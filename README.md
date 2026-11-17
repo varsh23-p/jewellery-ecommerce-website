@@ -30,6 +30,7 @@ The project was created to demonstrate practical knowledge of frontend web devel
 **Domain:** Web Development
 **Course:** Diploma in Computer Engineering
 
+
 This project helped me gain hands-on experience in creating responsive websites and applying frontend development concepts in a practical project.
 
 ## 🎯 Project Objective
