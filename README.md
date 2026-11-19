@@ -1,6 +1,6 @@
 # 💎 Jewellery E-Commerce Website
 
-A responsive jewellery showcase website developed as a **Diploma academic project** using **HTML, CSS, Bootstrap, and JavaScript**.
+A responsive jewellery showcase website developed as a **Diploma academic project** using **HTML, CSS, Bootstrap, and JavaScript**.   
 
 The project was created to demonstrate practical knowledge of frontend web development, responsive design, website structuring, and user interface development.
 
