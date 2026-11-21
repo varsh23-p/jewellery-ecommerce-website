@@ -42,7 +42,7 @@ The objective of this project was to design and develop a modern jewellery websi
 1. Clone this repository.
 2. Open the project folder.
 3. Open `index.html` in a web browser.
-4. Explore the website.
+4. Explore the website. 
 
 ## 📂 Project Structure
 
