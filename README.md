@@ -9,7 +9,7 @@ The project was created to demonstrate practical knowledge of frontend web devel
 * 🏠 Responsive Home page
 * 💍 Jewellery product showcase
 * 💎 Diamond jewellery pricing section
-* 📱 Responsive design using Bootstrap
+* 📱 Responsive design using Bootstrap 
 * 🧭 Navigation between website sections
 * 📩 Contact and newsletter sections
 * 🔗 Social media links
