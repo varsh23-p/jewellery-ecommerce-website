@@ -12,7 +12,7 @@ The project was created to demonstrate practical knowledge of frontend web devel
 * 📱 Responsive design using Bootstrap 
 * 🧭 Navigation between website sections
 * 📩 Contact and newsletter sections
-* 🔗 Social media links
+* 🔗 Social media links 
 * 🎨 Clean and attractive user interface
 
 ## 🛠️ Technologies Used
