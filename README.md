@@ -4,7 +4,7 @@ A responsive jewellery showcase website developed as a **Diploma academic projec
 
 The project was created to demonstrate practical knowledge of frontend web development, responsive design, website structuring, and user interface development.
  
-## ✨ Features  
+## ✨ Features     
 
 * 🏠 Responsive Home page
 * 💍 Jewellery product showcase
