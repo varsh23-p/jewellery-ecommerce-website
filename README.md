@@ -16,7 +16,7 @@ The project was created to demonstrate practical knowledge of frontend web devel
 * 🎨 Clean and attractive user interface
 
 ## 🛠️ Technologies Used
- 
+  
 * **HTML5** – Website structure
 * **CSS3** – Styling and layout
 * **Bootstrap** – Responsive design
