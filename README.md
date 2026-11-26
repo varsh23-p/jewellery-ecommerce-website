@@ -13,7 +13,7 @@ The project was created to demonstrate practical knowledge of frontend web devel
 * 🧭 Navigation between website sections
 * 📩 Contact and newsletter sections
 * 🔗 Social media links 
-* 🎨 Clean and attractive user interface
+* 🎨 Clean and attractive user interface 
 
 ## 🛠️ Technologies Used
   
